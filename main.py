@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-ENTRY = "Senior Vice President of Turning It Off and On Again"
+ENTRY = "Chief Officer of Turning It Off and On Again (Night Shift)"
 
 
 def main():
